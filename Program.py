@@ -1,1 +1,3 @@
-print("Something 18feb 2022")
+# This program prints Hello, world!
+
+print('Hello, world!')
